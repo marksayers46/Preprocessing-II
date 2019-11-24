@@ -1,3 +1,13 @@
+.btn {
+  padding: 20px;
+  background: #17A2B8;
+  color: #FFFFFF;
+  border-radius: 10px;
+  text-align: center;
+  width: 88%;
+  font-size: 1.8rem;
+  margin: 10px 0;
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -184,6 +194,13 @@ img {
   padding: 20px;
   font-size: 1.5rem;
   color: #212529;
+}
+hr {
+  border: 1.5px dashed #C0C0C0;
+}
+.fun-bus {
+  width: 100%;
+  margin: 20px 0;
 }
 .footer {
   width: 100%;
